@@ -18,8 +18,9 @@
         font-size: 20px;
         justify-content: center;
         align-items: center;
-        div {
+        > div {
             display: inline-block;
+            text-align: center;
         }
     }
 }
