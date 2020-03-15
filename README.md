@@ -15,5 +15,5 @@ on Mac
 ``sudo ngh --dir dist/site1``
 
 References:  
-https://alligator.io/angular/deploying-angular-app-github-pages/
+https://alligator.io/angular/deploying-angular-app-github-pages/  
 https://www.youtube.com/watch?v=wElk1W1BJ2o
